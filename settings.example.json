@@ -1,0 +1,7 @@
+{
+    "domain": "https://bookstack.example.com",
+    "apiTokenId": "xxx",
+    "apiTokenSecret": "xxx",
+    "defaultLanguage": "en",
+    "sendInvite": true
+}
